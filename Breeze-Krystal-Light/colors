@@ -1,0 +1,13 @@
+[Colors:Window]
+BackgroundAlternate=189,195,199
+BackgroundNormal=255,255,255
+DecorationFocus=61,174,233
+DecorationHover=0,179,255
+ForegroundActive=61,174,233
+ForegroundInactive=127,140,141
+ForegroundLink=41,128,185
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=255,255,255
+ForegroundPositive=39,174,96
+ForegroundVisited=159,159,159
