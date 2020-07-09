@@ -1,13 +1,13 @@
 [Desktop Entry]
-Comment=Plasma theme with mostly transparent elements.
+Comment=Plasma theme with mostly transparent elements./
 Name=Breeze Krystal Light
 X-KDE-PluginInfo-Author=nordkamp
-X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Depends=
 X-KDE-PluginInfo-Email=mattyhoffman7@gmail.com
 X-KDE-PluginInfo-EnabledByDefault=true
-X-KDE-PluginInfo-License=CC BY-SA
-X-KDE-PluginInfo-Name=Breeze-Krystal
-X-KDE-PluginInfo-Version=0.75.21
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-Name=Breeze-Krystal-Light
+X-KDE-PluginInfo-Version=1.0.3
 X-KDE-PluginInfo-Website=
-X-Plasma-API=5.13+
+X-Plasma-API=5.0
